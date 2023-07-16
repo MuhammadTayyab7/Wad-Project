@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <UserSecretsId>aspnet-WAREHOUSE_MANAGEMENT_SYSTEM-3D561013-0E68-4871-B84E-2E0C9EA43BE6</UserSecretsId>
     <RootNamespace>WAREHOUSE_MANAGEMENT_SYSTEM</RootNamespace>
     <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
